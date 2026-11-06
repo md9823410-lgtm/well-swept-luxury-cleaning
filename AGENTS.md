@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project decisions
+
+- Keep public business copy, offers, and gallery content as editable page-level data so the owner can update them without changing the layout.

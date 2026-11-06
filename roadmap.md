@@ -1,0 +1,3 @@
+- [ ] Build luxury Well’ Swept homepage with all 12 requested sections.
+- [ ] Add two responsive interactive cleaning galleries and generated photo assets.
+- [ ] Validate homepage, interactions, mobile layout, and route metadata.
